@@ -1,0 +1,6 @@
+P:\LP DIM\C#\TP1Debug\TP1Debug\bin\Release\TP1Debug.exe.config
+P:\LP DIM\C#\TP1Debug\TP1Debug\bin\Release\TP1Debug.exe
+P:\LP DIM\C#\TP1Debug\TP1Debug\bin\Release\TP1Debug.pdb
+P:\LP DIM\C#\TP1Debug\TP1Debug\obj\Release\TP1Debug.csproj.CoreCompileInputs.cache
+P:\LP DIM\C#\TP1Debug\TP1Debug\obj\Release\TP1Debug.exe
+P:\LP DIM\C#\TP1Debug\TP1Debug\obj\Release\TP1Debug.pdb
